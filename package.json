@@ -1,0 +1,12 @@
+﻿{
+    "name": "liquid",
+    "title": "Liquid Syntax Highlighter",
+    "description": "Add syntax highlighting support for the liquid template language.",
+    "homepage": "https://github.com/ForbesLindesay/liquid-brackets",
+    "version": "1.0.0",
+    "author": "Forbes Lindesay (http://www.forbeslindesay.co.uk)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
